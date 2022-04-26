@@ -825,7 +825,7 @@ After `0.8.0` we've made some [Web API polyfills](https://github.com/joltup/rn-f
 - Blob
 - XMLHttpRequest (Use our implementation if you're going to use it with Blob)
 
-Here's a [sample app](https://github.com/joltup/rn-firebase-storage-upload-sample) that uses polyfills to upload files to FireBase.
+Here's a [sample app](https://github.com/wkh237/rn-firebase-storage-upload-sample) that uses polyfills to upload files to FireBase.
 
 ## Performance Tips
 
